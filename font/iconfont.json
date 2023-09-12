@@ -1,0 +1,65 @@
+{
+  "id": "4225912",
+  "name": "小米",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "201228",
+      "name": "3.1我的",
+      "font_class": "31wode",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "577312",
+      "name": "加号",
+      "font_class": "jiahao",
+      "unicode": "e726",
+      "unicode_decimal": 59174
+    },
+    {
+      "icon_id": "705695",
+      "name": "眼睛",
+      "font_class": "yanjing",
+      "unicode": "e62b",
+      "unicode_decimal": 58923
+    },
+    {
+      "icon_id": "947481",
+      "name": "商城",
+      "font_class": "shangcheng",
+      "unicode": "e647",
+      "unicode_decimal": 58951
+    },
+    {
+      "icon_id": "6966956",
+      "name": "右箭头",
+      "font_class": "youjiantou",
+      "unicode": "e637",
+      "unicode_decimal": 58935
+    },
+    {
+      "icon_id": "11372661",
+      "name": "发现",
+      "font_class": "faxian",
+      "unicode": "e8af",
+      "unicode_decimal": 59567
+    },
+    {
+      "icon_id": "11372703",
+      "name": "首页",
+      "font_class": "shouye",
+      "unicode": "e8b9",
+      "unicode_decimal": 59577
+    },
+    {
+      "icon_id": "34064568",
+      "name": "小米",
+      "font_class": "xiaomi",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    }
+  ]
+}

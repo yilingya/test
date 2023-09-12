@@ -1,0 +1,156 @@
+body {
+    min-width: 413.9964px;
+    max-width: 1080px;
+    width: 10rem;
+    margin: 0 auto;
+    line-height: 1.5;
+    font-family: Arial, Helvetica;
+    background-color: #f8f8f8;
+}
+
+#__bs_notify__ {
+    display: none !important;
+}
+
+header {
+    height: 1.2407rem;
+    background-color: #00a4c0;
+    color: #fff;
+    text-align: center;
+    line-height: 1.2407rem;
+    font-size: .3704rem;
+}
+
+/* banner开始 */
+.banner img {
+    height: 3.9722rem;
+    width: 10rem;
+}
+
+.banner {
+    position: relative;
+}
+
+.banner ul {
+    width: 87.9984px;
+    height: 18.0036px;
+    position: absolute;
+    bottom: .2778rem;
+    right: .6296rem;
+}
+
+.banner ul li {
+    width: .1481rem;
+    height: .1481rem;
+    background-color: rgba(255, 255, 255, 0.4);
+    border-radius: 50%;
+    margin-right: .1389rem;
+    float: left;
+
+}
+
+.banner ul li:nth-child(1) {
+    background-color: rgba(255, 255, 255, 1);
+}
+
+/* banner结束 */
+/* 导航开始 */
+nav {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    border-bottom: .1852rem solid #eeeeee;
+
+}
+
+nav a {
+    width: 25%;
+    font-size: .25rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: .3148rem;
+    color: #9f9f9f;
+
+}
+
+nav a:nth-child(n+5) {
+    margin-bottom: .4074rem;
+}
+
+nav a img {
+    width: 1.3426rem;
+    height: 1.3426rem;
+    margin-bottom: .2407rem;
+}
+
+/* 导航结束 */
+/* banner开始 */
+section .banner {
+    padding: 0 .2222rem;
+    box-sizing: border-box;
+}
+
+section .banner-top {
+    height: .8889rem;
+    font-size: .3056rem;
+    display: flex;
+    justify-content: space-between;
+    padding-top: .1852rem;
+    box-sizing: border-box;
+
+}
+
+section .banner-top span:nth-child(2) {
+    color: #ccc;
+}
+
+section .banner-img img {
+    width: 9.5833rem;
+    height: 3.287rem;
+}
+
+section .banner-top:nth-of-type(3) {
+    padding-top: .3056rem;
+}
+
+/* 底部开始 */
+footer {
+    height: 1.537rem;
+    background-color: #fff;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    display: flex;
+    padding: 0 .926rem;
+    box-sizing: border-box;
+    justify-content: space-between;
+
+}
+
+footer a {
+    width: 25%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: .2778rem;
+    color: #ccc;
+
+}
+
+footer a .faxian {
+    font-size: .5rem;
+
+}
+
+footer a:nth-child(2) {
+    color: #15a5bf;
+}
+
+footer a:nth-child(2) span {
+    color: #15a5bf;
+}
+
+/* 底部结束 */
